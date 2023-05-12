@@ -37,7 +37,7 @@ const Header = () => {
              0
             </span>
           </div>
-          <img className="w-8 h-8 rounded-full" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1bNiLkJdKgheMl1Bqi1eecDJsufGqq82LA&usqp=CAU"/>
+          <img alt="profile" className="w-8 h-8 rounded-full" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1bNiLkJdKgheMl1Bqi1eecDJsufGqq82LA&usqp=CAU"/>
         </div>
       </div>
     </div>
